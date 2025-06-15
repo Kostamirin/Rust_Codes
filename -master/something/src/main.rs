@@ -8,8 +8,6 @@ fn main()
         else{
             print!("{}",i);
         }        
-        
-        
     }
     print!("]");
 }
