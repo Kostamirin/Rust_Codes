@@ -2,7 +2,9 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/-master/something/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/pkg_3423-MaximumDifferenceBetweenAdjacentElements_in_a_Circular_Array/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/-master/something/target" />
       <excludeFolder url="file://$MODULE_DIR$/pkg_3423-MaximumDifferenceBetweenAdjacentElements_in_a_Circular_Array/target" />
     </content>
     <orderEntry type="inheritedJdk" />
