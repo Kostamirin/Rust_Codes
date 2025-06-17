@@ -14,6 +14,7 @@
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/pkg_3423-MaximumDifferenceBetweenAdjacentElements_in_a_Circular_Array/target" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/_35-Search-Insert-Position/target" />
+      <excludeFolder url="file://$MODULE_DIR$/pkg_3423-MaximumDifferenceBetweenAdjacentElements_in_a_Circular_Array/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
