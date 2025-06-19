@@ -1,0 +1,6 @@
+[package]
+name = "pkg_3423-MaximumDifferenceBetweenAdjacentElements_in_a_Circular_Array"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
