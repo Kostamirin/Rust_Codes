@@ -10,11 +10,13 @@
       <sourceFolder url="file://$MODULE_DIR$/-master/something/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCode/pkg_3423-MaximumDifferenceBetweenAdjacentElements_in_a_Circular_Array/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCode/_35-Search-Insert-Position/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/_2294-Partition-Array-Such-That-Maximum-Difference-Is-K/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/-master/something/target" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/pkg_3423-MaximumDifferenceBetweenAdjacentElements_in_a_Circular_Array/target" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/_35-Search-Insert-Position/target" />
       <excludeFolder url="file://$MODULE_DIR$/pkg_3423-MaximumDifferenceBetweenAdjacentElements_in_a_Circular_Array/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/_2294-Partition-Array-Such-That-Maximum-Difference-Is-K/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
