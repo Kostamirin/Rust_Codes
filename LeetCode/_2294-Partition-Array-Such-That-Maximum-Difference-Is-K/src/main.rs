@@ -24,6 +24,7 @@ impl Solution {
 }
 
 fn main() {
+    
     let nums = vec![2,2,4,5];
     let k = 0;
     let answer = Solution::partition_array(nums, k);
